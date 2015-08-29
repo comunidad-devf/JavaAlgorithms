@@ -4,9 +4,9 @@ public class FormattingOutput {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Give me 3 lines");
         String line1 = scanner.nextLine();
-        System.out.println("Give me 2 more darling");
+        // System.out.println("Give me 2 more darling");
         String line2 = scanner.nextLine();
-        System.out.println("Just another one please :3");
+        // System.out.println("Just another one please :3");
         String line3 = scanner.nextLine();
         System.out.println("\n\n\n===========================================");
         System.out.println("\t" + line1);
